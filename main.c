@@ -1,17 +1,3 @@
-//Project submission for Software Engineering Project 1 - COMP10050
-//by Aaron Lawler - Student Number: 20757091
-
-//I am quite new to Clion so I hope this file is in the correct format for you
-//I also had to place the artistes+songs.txt file in the cmake-build-debug folder for it to be read successfully
-
-//I was able to complete every specification required for this project apart from:
-// - allowing the user to use the command line to input artists and songs (however they could choose a file through the command line)
-// - I was unable to break one part of my code into a function
-// - The no more than three songs by one artist in the final randomised playlist
-
-//Apart from those mentioned above, I believe this program meets all other specifications
-
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
